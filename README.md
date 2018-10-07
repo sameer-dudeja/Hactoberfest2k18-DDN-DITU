@@ -14,7 +14,7 @@ Hacktoberfest is a month long celebration of open source software held in the mo
 ### Rules
 To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. 
 
-You can check your progress of HacktoberFest at this [link] (https://hacktoberfest.digitalocean.com")
+You can check your progress of HacktoberFest at this [link](https://hacktoberfest.digitalocean.com)
 
 Pull requests marked as spam will not be entitled for a T-shirt.
 
@@ -29,7 +29,7 @@ Email:
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
 
-> git clone https://github.com/your-username/hacktoberfest2018.git
+> git clone https://github.com/your-username/Hactoberfest2k18-DDN-DITU.git
 
 Create a branch for a new feature
 
