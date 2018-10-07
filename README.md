@@ -1,5 +1,5 @@
 # Hactoberfest2k18-DDN-DITU
-_Let's Contribute!!!
+*Let's Contribute!!!*
 
 ### Hacktoberfest 2018
 Anyone can contribute to this repo to make their contribution to open-source on Github.
