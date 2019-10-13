@@ -10,3 +10,8 @@ About: Code is Life!<br/>
 Programming Language: Java, JS, C, Python ,html ,css<br/>
 Email: dsameer33@gmail.com<br/>
 		
+Name: [Abhishek Mankuskar](https://github.com/abishekmankuskar)<br/>
+Place: India<br/>
+About: Hacking <br/>
+Programming Language: Java, JS, C#, Python<br/>
+Email: abhishekmankuskar@gmail.com<br/>
