@@ -14,5 +14,5 @@ Name: [Crownedprinz](https://github.com/Crownedprinz)<br/>
 Place: Lagos, Nigeria<br/>
 About: .Net full stack developer<br/>
 Programming Language: c#, Javascript, T-Sql, Node Js, Java<br/>
-Email<br/>
+Email: Ademolajhon@gmail.com<br/>
 		
